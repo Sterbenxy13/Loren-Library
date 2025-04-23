@@ -1,0 +1,199 @@
+# Translation of Plugins - Spectra &#8211; WordPress Gutenberg Blocks - Stable (latest release) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - Spectra &#8211; WordPress Gutenberg Blocks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-09-18 20:16:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - Spectra &#8211; WordPress Gutenberg Blocks - Stable (latest release)\n"
+
+#: lib/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:38
+#: lib/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:39
+msgid "View Action"
+msgstr "Ver ação"
+
+#: lib/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:37
+msgid "New Scheduled Action"
+msgstr "Nova ação agendadas"
+
+#: lib/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:36
+msgid "Edit Scheduled Action"
+msgstr "Editar ação agendada"
+
+#: lib/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:40
+msgid "Search Scheduled Actions"
+msgstr "Pesquisar ação agendada"
+
+#: lib/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:33
+msgid "Add"
+msgstr "Adicionar"
+
+#: lib/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:32
+msgctxt "Admin menu name"
+msgid "Scheduled Actions"
+msgstr "Ações agendadas"
+
+#: lib/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:34
+msgid "Add New Scheduled Action"
+msgstr "Adicionar ação agendada"
+
+#: lib/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:110
+msgid "Database error."
+msgstr "Erro de banco de dados."
+
+#: lib/action-scheduler/classes/ActionScheduler_QueueRunner.php:211
+msgid "Every minute"
+msgstr "Cada minuto"
+
+#: includes/blocks/table-of-contents/block.php:16 dist/blocks-placeholder.js:30
+#: dist/blocks.js:17
+msgid "Table of Contents"
+msgstr "Tabela de conteúdo"
+
+#: classes/class-uagb-admin.php:219
+msgid "Would you please mind sharing your views and give it a 5 star rating on the WordPress repository?"
+msgstr "Você se importaria de compartilhar sua opinião e nos dar uma classificação 5 estrelas no repositório WordPress?"
+
+#: classes/class-uagb-init-blocks.php:773
+msgid "You have not added any Gravity Forms yet."
+msgstr "Você ainda não adicionou formulários do Gravity Forms."
+
+#: classes/class-uagb-init-blocks.php:426
+msgid "Please select a valid Gravity Form."
+msgstr "Escolha um formulário válido do Gravity Form."
+
+#: includes/blocks/marketing-button/block.php:16 dist/blocks-placeholder.js:23
+#: dist/blocks.js:13
+msgid "Marketing Button"
+msgstr "Botão de marketing"
+
+#: classes/class-uagb-init-blocks.php:726
+#: classes/class-uagb-init-blocks.php:759 dist/blocks.js:17
+msgid "Select Form"
+msgstr "Escolha o formulário"
+
+#: classes/class-uagb-init-blocks.php:740
+msgid "You have not added any Contact Form 7 yet."
+msgstr "Você ainda não adicionou formulários do Contact Form 7."
+
+#: classes/class-uagb-init-blocks.php:468
+msgid "Please select a valid Contact Form 7."
+msgstr "Escolha um formulário válido do Contact Form 7."
+
+#: includes/blocks/blockquote/block.php:16 dist/blocks-placeholder.js:10
+#: dist/blocks.js:13
+msgid "Blockquote"
+msgstr "Citação"
+
+#: classes/class-uagb-helper.php:411 dist/blocks.js:13 dist/blocks.js:17
+msgid "Full"
+msgstr "Completo"
+
+#: includes/blocks/restaurant-menu/block.php:16 dist/blocks-placeholder.js:26
+#: dist/blocks.js:17
+msgid "Price List"
+msgstr "Lista de preço"
+
+#: includes/blocks/column/block.php:14 dist/blocks.js:11 dist/blocks.js:17
+msgid "Column"
+msgstr "Coluna"
+
+#: includes/blocks/columns/block.php:16 dist/blocks.js:17
+msgid "Advanced Columns"
+msgstr "Colunas avançadas"
+
+#: classes/class-uagb-admin.php:224
+msgid "I already did"
+msgstr "Eu já fiz"
+
+#: classes/class-uagb-admin.php:223
+msgid "Nope, maybe later"
+msgstr "Não, talvez mais tarde"
+
+#: classes/class-uagb-admin.php:221
+msgid "Ok, you deserve it"
+msgstr "Ok, vocês merecem"
+
+#: includes/blocks/call-to-action/block.php:16 dist/blocks-placeholder.js:12
+#: dist/blocks.js:13
+msgid "Call To Action"
+msgstr "Chamada para ação"
+
+#: includes/blocks/post-masonry/block.php:16 dist/blocks.js:17
+msgid "Post Masonry"
+msgstr "Posts em alvenaria"
+
+#: includes/blocks/post-carousel/block.php:16 dist/blocks-placeholder.js:24
+#: dist/blocks.js:17
+msgid "Post Carousel"
+msgstr "Carrossel de posts"
+
+#: includes/blocks/post-timeline/block.php:16 dist/blocks-placeholder.js:36
+#: dist/blocks.js:17
+msgid "Post Timeline"
+msgstr "Linha do tempo dos posts"
+
+#: blocks-config/post-timeline/class-uagb-post-timeline.php:859
+msgid "No posts found"
+msgstr "Nenhum post foi encontrado"
+
+#: includes/blocks/icon-list/attributes.php:19
+msgid "Label #1"
+msgstr "Rótulo #1"
+
+#: includes/blocks/icon-list/block.php:16 dist/blocks-placeholder.js:18
+#: dist/blocks.js:13
+msgid "Icon List"
+msgstr "Lista de ícones"
+
+#: includes/blocks/team/block.php:16 dist/blocks-placeholder.js:33
+#: dist/blocks.js:17
+msgid "Team"
+msgstr "Equipe"
+
+#: includes/blocks/social-share/block.php:16 dist/blocks-placeholder.js:28
+#: dist/blocks.js:17
+msgid "Social Share"
+msgstr "Compartilhamento social"
+
+#: includes/blocks/content-timeline/block.php:16 dist/blocks-placeholder.js:35
+#: dist/blocks.js:13
+msgid "Content Timeline"
+msgstr "Linha do tempo de conteúdo"
+
+#: includes/blocks/post-grid/block.php:16 dist/blocks-placeholder.js:25
+#: dist/blocks.js:17
+msgid "Post Grid"
+msgstr "Grade de posts"
+
+#: includes/blocks/info-box/block.php:16 dist/blocks-placeholder.js:20
+#: dist/blocks.js:13
+msgid "Info Box"
+msgstr "Caixa de informação"
+
+#: blocks-config/post-timeline/class-uagb-post-timeline.php:523
+#: blocks-config/post/class-uagb-post.php:528
+#: blocks-config/post/class-uagb-post.php:1995
+#: includes/blocks/post-carousel/attributes.php:113
+#: includes/blocks/post-grid/attributes.php:105
+#: includes/blocks/post-masonry/attributes.php:108 dist/blocks.js:1
+#: dist/blocks.js:13 dist/blocks.js:17
+msgid "Read More"
+msgstr "Leia mais"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.brainstormforce.com"
+msgstr "https://www.brainstormforce.com"
+
+#. Author of the plugin
+msgid "Brainstorm Force"
+msgstr "Brainstorm Force"
+
+#: classes/class-uagb-loader.php:343
+msgid "Install Gutenberg"
+msgstr "Instalar o Gutenberg"
