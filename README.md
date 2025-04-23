@@ -12,7 +12,7 @@ That's a library e-commerce using wordpress with woocommerce as the final projec
 ## Screenshots
 ![Alt text](/screenshots/capa.png "a title")
 ![Alt text](/screenshots/carrinho.png "a title")
-![Alt text](/screenshots/catálogo.png "a title")
+![Alt text](/screenshots/catalogo.png "a title")
 ![Alt text](/screenshots/contato.png "a title")
 ![Alt text](/screenshots/destaque.png "a title")
 ![Alt text](/screenshots/logado.png "a title")
