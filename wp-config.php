@@ -18,13 +18,10 @@
  * @package WordPress
  */
 
-<<<<<<< HEAD
 // Link para o 
 // define( 'WP_HOME', 'localhost' );
 // define( 'WP_SITEURL', 'http://novo-dominio.com' );
 
-=======
->>>>>>> upload-site
 // ** Configurações do banco de dados - Você pode pegar estas informações com o serviço de hospedagem ** //
 /** O nome do banco de dados do WordPress */
 define( 'DB_NAME', 'loren-library' );
